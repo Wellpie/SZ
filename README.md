@@ -1,0 +1,2 @@
+# SZ
+A test project
